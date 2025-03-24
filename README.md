@@ -1,6 +1,10 @@
 # dbd.ts
 This repo holds the "reverse engineered" version of dbd.ts built from the compiled source.
 > Original project is under the MIT license.
+![Image](./data.png)
+
+> [!IMPORTANT]  
+> Project is not fully finished and I guess it wont be. It is based on the last 3.x.x build but takes some elements from 4.x.x
 
 <br/>
     <p>
